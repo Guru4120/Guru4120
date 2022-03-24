@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guru4120
 - 👀 I’m interested in python,java
-- 🌱 I’m currently looking for a job im graduadet in bsc it in which i have 6.48cgpa
+- 🌱 I’m graduated in bsc it in which i have 6.48cgpa
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me gurumore@gmail.com
 
